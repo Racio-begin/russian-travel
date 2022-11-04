@@ -6,7 +6,7 @@
 
 Страница расположена по адресу: [Путешествия по России](https://racio-begin.github.io/russian-travel/)
 
-Бриф на проект расположен по адресу: https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0
+Бриф на проект расположен по адресу: [Макет проекта в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 ## В работе были применены следующие технологии
 

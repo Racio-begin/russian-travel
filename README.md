@@ -4,7 +4,7 @@
 Данный проект представляет собой одностраничный сайт с несколькими блоками.
 В нем реализована адаптивность для лучшего восприятия контента как на стационарном компьютере, так и на мобильном телефоне.
 
-Страница расположена по адресу: https://github.com/Racio-begin/russian-travel
+Страница расположена по адресу: [https://github.com/Racio-begin/russian-travel](https://racio-begin.github.io/russian-travel/)
 
 Бриф на проект расположен по адресу: https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0
 

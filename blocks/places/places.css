@@ -4,19 +4,32 @@
   width: calc(100% - 2 * 148px);
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1235px) {
+  .places {
+    width: calc(100% - 2 * 110px);
+  }
+}
+
+
+@media screen and (max-width: 1180px) {
+  .places {
+    width: calc(100% - 2 * 80px);
+  }
+}
+
+@media screen and (max-width: 1124px) {
   .places {
     width: calc(100% - 2 * 48px);
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 984px) {
   .places {
     width: calc(100% - 48px);
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 568px) {
   .places {
     width: 100%;
   }

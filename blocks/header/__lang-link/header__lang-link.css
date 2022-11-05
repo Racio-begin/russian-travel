@@ -12,7 +12,7 @@
   transition: .3s ease-in;
 }
 
-.header__lang-link:hover{
+.header__lang-link:hover {
   opacity: .8;
 }
 

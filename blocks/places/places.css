@@ -10,16 +10,9 @@
   }
 }
 
-
 @media screen and (max-width: 1180px) {
   .places {
-    width: calc(100% - 2 * 80px);
-  }
-}
-
-@media screen and (max-width: 1124px) {
-  .places {
-    width: calc(100% - 2 * 48px);
+    width: calc(100% - 2 * 70px);
   }
 }
 

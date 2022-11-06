@@ -4,7 +4,6 @@
   max-width: 1184px;
   width: calc(100% - 96px);
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   box-sizing: border-box;
 }

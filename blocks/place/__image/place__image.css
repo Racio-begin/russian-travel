@@ -1,13 +1,13 @@
 .place__image {
   margin: 0;
   padding: 0;
-  max-width: 480px;
+  max-width: 460px;
   height: auto;
 }
 
 @media screen and (max-width: 1024px) {
   .place__image {
-    width: 42vw;
+    width: 43vw;
   }
 }
 
@@ -17,10 +17,9 @@
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 568px) {
   .place__image {
-    width: 100vw;
-    margin-bottom: 32px;
+    width: 100%;
     object-fit: cover;
   }
 }

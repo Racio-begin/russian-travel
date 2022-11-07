@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: auto;
-  column-gap: 40px;
+  column-gap: 35px;
   row-gap: 50px;
   padding: 0;
 }
@@ -16,7 +16,7 @@
 
 @media screen and (max-width: 768px) {
   .place {
-    column-gap: 28px;
+    column-gap: 8px;
   }
 }
 

@@ -4,21 +4,15 @@
   width: calc(100% - 2 * 148px);
 }
 
-@media screen and (max-width: 1235px) {
-  .places {
-    width: calc(100% - 2 * 110px);
-  }
-}
-
 @media screen and (max-width: 1180px) {
   .places {
-    width: calc(100% - 2 * 70px);
+    width: calc(100% - 2 * 48px);
   }
 }
 
 @media screen and (max-width: 984px) {
   .places {
-    width: calc(100% - 48px);
+    width: calc(100% - 24px);
   }
 }
 
